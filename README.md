@@ -14,4 +14,4 @@ In first Dashboard we shown state wise population using bubble chart and differe
 Total 20% population increased in india from previous census to current census.
 Nagaland has highest population percent in current census.
 
-
+![d1](https://user-images.githubusercontent.com/95639758/204150578-756b6148-fda6-47e4-84a5-b40080eec2c4.png)
