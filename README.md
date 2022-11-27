@@ -15,3 +15,7 @@ Total 20% population increased in india from previous census to current census.
 Nagaland has highest population percent in current census.
 
 ![d1](https://user-images.githubusercontent.com/95639758/204150578-756b6148-fda6-47e4-84a5-b40080eec2c4.png)
+
+In Second Dashboard ,We shown statewise Literacy rate Using Bar Chart .Kerala has the highest Literacy count and india's Literacy rate is 72%.
+
+
